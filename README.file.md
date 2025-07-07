@@ -1,38 +1,53 @@
-# E-commerce Website
+# QuickCart - Modern E-Commerce Website 🛍️
 
-This is a fully responsive, multi-page e-commerce website built using **HTML5**, **CSS3**, and **JavaScript**. The site includes pages for product listings, product details, shopping cart, blog, contact, and more.
+Welcome to **QuickCart**, a sleek and responsive e-commerce website designed and built by **Yash Nadar** using **HTML**, **CSS**, and **JavaScript**.  
+It offers a smooth and attractive UI for showcasing products and enhancing the online shopping experience.
 
-## 🌐 Live Preview
-
-Coming soon...
-
-## 📁 Pages Included
-
-- Home Page (`index.html`)
-- About Us (`about.html`)
-- Shop (`shop.html`)
-- Single Product View (`sproduct.html`)
-- Blog (`blog.html`)
-- Contact (`contact.html`)
-- Cart (`cart.html`)
-
-## 💡 Features
-
-- Responsive design
-- Stylish UI with modern CSS
-- Basic cart structure (front-end)
-- Organized file structure
-- Easy to customize
-
-## 🚀 Future Plans
-
-- Add cart functionality with JS
-- Integrate backend (Node.js + MongoDB)
-- Add payment gateway (Razorpay or Stripe)
-
-## 📬 Contact
-
-Feel free to reach out if you want to collaborate or need help customizing this project!
+> 🔗 **Live Demo:** [Click to View Website](https://yashnadar01.github.io/Ecommerce-website/)
 
 ---
-© 2025 Yash Nadar
+
+## 🚀 Features
+
+- Fully responsive design for mobile, tablet, and desktop
+- Clean homepage layout with hero section
+- Product listing with individual product cards
+- Shopping cart page layout
+- Blog and contact sections
+- Easy-to-navigate user experience
+
+---
+
+## 🧰 Technologies Used
+
+- **HTML5** for structure  
+- **CSS3** for styling and layout  
+- **JavaScript** for dynamic interactions
+
+---
+
+## 📸 Screenshots
+
+> *(Add a screenshot image like below in the img/ folder)*
+
+
+---
+
+## 📦 Folder Structure
+
+
+---
+
+## 👨‍💻 About Me
+
+I'm **Yash Nadar**, a Web Developer passionate about building real-world projects with clean, maintainable code.
+
+- 🔗 [GitHub Profile](https://github.com/YashNadar01)
+
+---
+
+## 📌 Status
+
+✅ Project Completed  
+🚀 Live & Deployed on GitHub Pages  
+🔧 Open to improvements like cart logic, product filtering, etc.
